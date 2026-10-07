@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddhi
 
-<!--
-**Siddhishrestha/Siddhishrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Technical Skills & Learning
+* **Languages & Tools I Know:** Python (Pandas, Data visulatisation), HTML, My SQL
+* **Currently Learning:** C Programming, Javascript, Databases, Data structure
+  
+### 🚀 Projects
+* **Working website:** Built using HTML[cite: 1]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Personal & Interests
+* **Hobbies:** Reading books, Listenign to music, Crochet, Codding, Learnign new things
+* **How to reach me:** shresthasiddhi882@gmail.com
